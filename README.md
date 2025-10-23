@@ -1,8 +1,4 @@
 # NET — C#/.NET Application
-
-This repository contains a .NET application built with **C#**.  
-The project demonstrates key concepts in .NET development such as clean architecture, dependency injection, and modular design.
-
 ---
 
 ## 🚀 Features
